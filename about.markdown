@@ -5,4 +5,10 @@ permalink: /about/
 ---
 
 # Project Description
-Carrying heavy loads, bending down, and other common tasks and other common tasks that labourers in the agriculture industry must perform are the worst for workplace health and safety. This project addresses the need for a versatile, adaptable mobile platform for assisting in transportation of heavy loads in these agricultural settings. To solve this issue a quadrupedal robot was developed as it provides high maneuverability while remaining stable and is also able to traverse uneven terrain with relative ease.
+Tasks that labourers in the agriculture industry commonly perform, including
+carrying heavy loads and bending down, are among the worst for workplace health
+and safety. This project addresses the need for a versatile, adaptable mobile
+platform to assist in transportation of heavy loads in these agricultural
+settings. A quadrupedal robot is being developed to solve this problem, as it
+provides a highly maneuverable, stable platform that is capable of traversing
+uneven terrain.
