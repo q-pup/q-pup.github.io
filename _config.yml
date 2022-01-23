@@ -20,7 +20,7 @@
 
 title: Q-PUP Capstone Project
 description: >- # this means to ignore newlines until "baseurl:"
-  Description of the project
+  University of Waterloo 4th year capstone project to design and build a quadrupedal practical utility platform (Q-PUP). To assist in argiculture setting by assisting manual labourers in carrying heavy loads across uneven terrain
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
