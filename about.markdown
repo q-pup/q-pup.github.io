@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # The Team
-![Group Photo](groupshot.jpeg "Group Photo")
+![Group Photo](/assets/images/groupshot.jpeg "Group Photo")
 Team Members: (Left to Right) Walter Raftus, Matthew Reynolds, Melvin Wang, Dawson Hemphill
 
 # Project Description
