@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+# The Team
+![Group Photo](groupshot.jpeg "Group Photo")
+Team Members: (Left to Right) Walter Raftus, Matthew Reynolds, Melvin Wang, Dawson Hemphill
+
 # Project Description
 Tasks that labourers in the agriculture industry commonly perform, including
 carrying heavy loads and bending down, are among the worst for workplace health
