@@ -28,7 +28,6 @@ url: https://q-pup.github.io # the base hostname & protocol for your site, e.g. 
 github_username: q-pup
 
 # Build settings
-theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
