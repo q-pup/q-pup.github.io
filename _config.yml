@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme: fongandrew/hydeout
+
 title: Q-PUP
 description: >- # this means to ignore newlines until "baseurl:"
   University of Waterloo 4th year Capstone design project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://q-pup.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  q-pup
+github_username: q-pup
 
 # Build settings
 theme: jekyll-theme-hydeout
@@ -34,7 +36,6 @@ plugins:
 
 paginate: 3
 paginate_path: '/page/:num'
-remote_theme: fongandrew/hydeout
 
 sidebar_home_link: true
 enable_disqus: false
