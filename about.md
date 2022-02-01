@@ -1,14 +1,19 @@
 ---
 layout: page
 title: About
-permalink: /about/
+sidebar_link: true
 ---
 
-# The Team
-![Group Photo](/assets/images/groupshot.jpeg "Group Photo")
+## The Team
+<img src="/assets/images/groupshot.jpeg"/>
+<figcaption align="center">
+<b>
 Team Members: (Left to Right) Walter Raftus, Matthew Reynolds, Melvin Wang, Dawson Hemphill
+</b>
+</figcaption>
 
-# Project Description
+## Project Description
+
 Tasks that labourers in the agriculture industry commonly perform, including
 carrying heavy loads and bending down, are among the worst for workplace health
 and safety. This project addresses the need for a versatile, adaptable mobile
