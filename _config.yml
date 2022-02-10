@@ -33,7 +33,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
-paginate: 3
+paginate: 10
 paginate_path: '/page/:num'
 
 sidebar_home_link: true

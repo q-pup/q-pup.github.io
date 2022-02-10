@@ -9,7 +9,7 @@ catagories: Build
 
 Today the team completed the first build of the chasis for the robot. It is constructed out of machined 8020 aluminum extrusion.
 
-<img src="/assets/images/torque_test_setup.jpg">
+<img src="/assets/images/chasis_build.jpg">
 <figcaption align="center"><b> Assembled Chasis</b>
 </figcaption>
 
